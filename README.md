@@ -1,0 +1,1 @@
+# powershell-git-manager
